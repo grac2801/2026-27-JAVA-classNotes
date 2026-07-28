@@ -29,10 +29,7 @@ public class U1_L2_userInputVariables
 		int myAge = scan.nextInt();
 		System.out.println("So, your name is " + name + ", and your age is: " + myAge);
 		
-		System.out.println();
-		System.out.println("***************************************");
-		System.out.println("Scanner bug");
-		System.out.println("***************************************");
+		
 		//Last input was an integer
 		//solution = scan.nextLine()
 		

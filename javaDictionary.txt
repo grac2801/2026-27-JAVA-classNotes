@@ -2,3 +2,5 @@ Bonita
 Gracias
 Oscar
 test
+int
+lowercase
