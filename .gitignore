@@ -32,6 +32,7 @@ replay_pid*
 
 # personal ancillary material TEACHER
 .TEA/
-.invisible/
+src/invisible/
 /.metadata/
 /bin/
+
