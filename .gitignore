@@ -35,4 +35,5 @@ replay_pid*
 src/invisible/
 /.metadata/
 /bin/
+.invisible/
 
