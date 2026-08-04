@@ -34,7 +34,7 @@ public class U1_L6_casting
 		
 		
 		int f3 = 13;
-		half = (double) f2 / 2;
+		half = (double) f3 / 2;
 		System.out.println(half);
 		
 		
