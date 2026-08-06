@@ -8,3 +8,6 @@ mod
 san
 diego
 concatenator
+deflating
+ft
+perimeter
