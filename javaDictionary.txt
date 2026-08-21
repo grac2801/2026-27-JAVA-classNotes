@@ -11,3 +11,8 @@ concatenator
 deflating
 ft
 perimeter
+snack
+subtotal
+args
+inputted
+har
