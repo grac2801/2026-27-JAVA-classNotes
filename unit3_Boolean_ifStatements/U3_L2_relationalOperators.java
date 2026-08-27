@@ -33,7 +33,26 @@ public class U3_L2_relationalOperators
 		 * She/He is from United States
 		 * height of the athlete in ft. and inches.
 		 */
+		System.out.println("How long was your jump? ");
+		double jump = input.nextDouble();
 		
+		if (jump >= 8.95)
+		{
+			System.out.println("What is your name?");
+			input.nextLine();
+			String name = input.nextLine();
+			System.out.println("What is your height?");
+			double height = input.nextDouble();
+			System.out.println("What is your nationality?");
+			input.nextLine();
+			String nationality = input.nextLine();
+			
+			System.out.printf("The length of the jump is %.2f%n", jump);
+			System.out.println("My name is " + name);
+			System.out.println("My nationality is " + nationality);
+			System.out.println("My height is" + (int)(height/12) + " feet " + (height%12) + " inches.");
+			
+		}
 		
 		
 		input.close();

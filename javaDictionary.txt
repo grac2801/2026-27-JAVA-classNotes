@@ -11,4 +11,12 @@ concatenator
 deflating
 ft
 perimeter
+<<<<<<< HEAD
 printf
+=======
+snack
+subtotal
+args
+inputted
+har
+>>>>>>> refs/remotes/origin/master
