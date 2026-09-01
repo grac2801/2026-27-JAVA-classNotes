@@ -19,11 +19,11 @@ public class U3_L7_comparingObjects
 		Circle c1 = new Circle(2.5);
 		Circle c2 = new Circle(2.5);
 		
-//		if(c1.equals(c2))
-//		{
-//			System.out.println("Those 2 objects are the same");
-//		}
-//		
+		if(c1.equals(c2))
+		{
+			System.out.println("Those 2 objects are the same");
+		}
+		
 		
 		/*
 		 * Now we can use the == and != for objects to check
