@@ -20,3 +20,6 @@ args
 inputted
 har
 >>>>>>> refs/remotes/origin/master
+jan
+ogracias
+aug
