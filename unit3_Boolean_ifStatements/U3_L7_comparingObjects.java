@@ -62,21 +62,7 @@ public class U3_L7_comparingObjects
 			System.out.println("r1 an r3 are not equal");
 		}
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+			
 		
 		
 	}
