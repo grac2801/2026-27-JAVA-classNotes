@@ -1,4 +1,4 @@
-package unit3_Boolean_ifStatements;
+package unit003_ifStatements;
 
 import edhesive.shapes.Circle;
 import edhesive.shapes.Rectangle;
