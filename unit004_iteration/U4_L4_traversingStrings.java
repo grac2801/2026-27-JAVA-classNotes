@@ -54,9 +54,18 @@ public class U4_L4_traversingStrings
 		 * Code for a loop which iterates through the word "tentative" and
 		 * prints every other letter, and leave a space in between every letter
 		 */
+		String another = "tentative";
+		String everyOther = "";
+		for(int i = 0; i < another.length(); i++)
+		{
+			if(i % 2 == 0)
+			{
+				System.out.print(another.substring(i, i + 1) + " ");
+				everyOther += another.substring(i, i + 1);
+			}
+		}
 		
-		
-		
+		System.out.println(everyOther);
 	}//End of main
 
 } //End of class
