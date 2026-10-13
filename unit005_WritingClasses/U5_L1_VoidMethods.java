@@ -3,7 +3,6 @@ package unit005_WritingClasses;
 import java.util.Scanner;
 
 
-
 public class U5_L1_VoidMethods
 {
 	/*
