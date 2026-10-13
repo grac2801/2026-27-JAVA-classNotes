@@ -1,5 +1,7 @@
 package unit005_WritingClasses;
 
+
+
 public class U5_L1_PrivateMethods
 {
 	private static void privateMethod1()
